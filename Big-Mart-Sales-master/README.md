@@ -26,7 +26,7 @@ Item_Fat_Content : Whether the product is low fat or not
 
 Item_Visibility : The % of total display area of all products in a store allocated to the particular product
 
-Item_Type : The category to which the product belongs
+Item_Type : The category to which the product belongs to
 
 Item_MRP : Maximum Retail Price (list price) of the product
 
