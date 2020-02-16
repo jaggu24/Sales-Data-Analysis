@@ -1,2 +1,2 @@
 # Sales-Data-Analysis
-Analysis of data in R
+Analysis of data in R Program
