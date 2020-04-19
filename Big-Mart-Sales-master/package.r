@@ -29,7 +29,7 @@ table2
 table3 <- xtabs(~BigMart$Outlet_Type+BigMart$Outlet_Size)
 table3
 table4 <- xtabs(~BigMart$Outlet_Type+BigMart$Outlet_Location_Type)
-table4
+table4??
 par(mfrow=c(2,2))
 boxplot(BigMart$Item_Visibility,horizontal = TRUE,main="Item Visibility",col="Yellow")
 boxplot(BigMart$Item_Weight,horizontal = TRUE,main="Item Weight",col="Yellow")
